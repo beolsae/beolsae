@@ -1,16 +1,16 @@
 <div align="center" style="text-align:center">
 	
-#### 👋 안녕하세요. 웹 개발자 머쓱이([@musseuk](https://github.com/musseuk))입니다!
+#### 👋 안녕하세요. 웹 개발자 벌새([@beolsae](https://github.com/beolsae))입니다!
 
 <br>
-<a href="https://programmers.co.kr/pr/musseuk">
-	<img src="https://github.com/musseuk/musseuk/blob/main/programmers.png" width="64" height="64">
+<a href="https://programmers.co.kr/pr/beolsae">
+	<img src="https://github.com/beolsae/beolsae/blob/main/programmers.png" width="64" height="64">
 </a>
-<a href="https://github.com/muesseuk">
-	<img src="https://github.com/musseuk/musseuk/blob/main/GitHub-light.png" width="64" height="64">
+<a href="https://github.com/beolsae">
+	<img src="https://github.com/beolsae/beolsae/blob/main/GitHub-light.png" width="64" height="64">
 </a>
 <a href="https://www.instagram.com/mu_sseuk/">
-	<img src="https://github.com/musseuk/musseuk/blob/main/instagram.png" width="64" height="64">
+	<img src="https://github.com/beolsae/beolsae/blob/main/instagram.png" width="64" height="64">
 </a>
 
 </div>
